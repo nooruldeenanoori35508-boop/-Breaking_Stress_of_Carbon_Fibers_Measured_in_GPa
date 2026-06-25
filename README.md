@@ -1,2 +1,2 @@
 # -Breaking_Stress_of_Carbon_Fibers_Measured_in_GPa
-The breaking stress (tensile strength) of carbon fibers typically ranges from 3.5 GPa to 7.0 GPa, depending on the precursor and manufacturing process. 
+The breaking stress (tensile strength) of carbon fibers typically ranges from 3.5 GPa to 7.0 GPa, depending on the precursor and manufacturing process. Engineering applications utilize various fiber grades characterized by their distinct tensile strength, modulus, and transverse properties. In engineering and quality control, breaking stress data is typically evaluated statistically (e.g., using the Weibull Distribution) due to microscopic manufacturing flaws.
